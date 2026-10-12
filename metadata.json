@@ -1,0 +1,6 @@
+{
+  "name": "FabXP Admin Dashboard",
+  "description": "Operations, revenue analytics, and bookings management dashboard for FabXP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
